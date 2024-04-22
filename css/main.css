@@ -1,0 +1,9 @@
+@import url(./fonts.css);
+
+:root {
+    --grey: #282828;
+    --black: #151515;
+    --white: #fff;
+    --montserrat: 'Montserrat';
+    --prosto-one: 'Prosto_One';
+}
